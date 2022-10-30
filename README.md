@@ -8,8 +8,8 @@ Content in the repository;
 . PDF report file contains overview of the project, prediction and result.
 
 
-Health care system is in great pressure due to shortage of resources including human resources. Our model, which is trained on patient admission data tries to predict the stay of the patien which not only helps hospital management to predict and maintain resources according to the insigt provided but also helps hospital in prevention of diseases by better management of their patient stay in the hospital.
-Project highlight;
+Health care system is in great pressure due to shortage of resources including human resources. Our model, which is trained on patient admission data tries to predict the stay of the patient which not only helps hospital management to predict and maintain resources according to the insigt provided but also helps hospital in prevention of diseases by better management of their patient stay in the hospital.
+Project highlights;
 Hospital admission data was analyzed to accurately predict the patient's length of stay at the time of admit so that the hospital can optimize resource and function in a better way.
 
 Different models used are as;
